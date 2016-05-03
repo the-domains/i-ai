@@ -1,0 +1,28 @@
+name: I.AI
+favicon: null
+layout_spectrum: 0.5446896434295923
+typography_spectrum: 0.6077531408518553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7436900839675218
+  lightness: 0.7691866138484329
+  saturation: 0.5253702797926962
+  rhythmicContrast: 0.4543587863445282
+purpose: []
